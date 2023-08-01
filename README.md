@@ -7,6 +7,8 @@
 
 ![casaquinho GitHub stats](https://github-readme-stats.vercel.app/api?username=Casaquinho&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Casaquinho)](https://github.com/Casaquinho/github-readme-stats)
+
 ### Tecnologias do meu dia a dia: 
 <div style="display:inline-block"><br/>
     <img alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
