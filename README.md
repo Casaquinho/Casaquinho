@@ -4,7 +4,7 @@
 [![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marcelohmanzo@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@325326557633708034)
 
-![casaquinho GitHub stats](https://github-readme-stats.vercel.app/api?username=Casaquinho&show_icons=true&theme=radical)
+![casaquinho GitHub stats](https://github-readme-stats.vercel.app/api?username=Casaquinho&show_icons=true&theme=radical)  
 
 ### Linguagens que uso: 
 <div style="display:inline-block"><br/>
